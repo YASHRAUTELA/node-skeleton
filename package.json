@@ -4,7 +4,7 @@
   "description": "Boilerplate for Node, KoaJS, MongoDB",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
