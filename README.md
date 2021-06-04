@@ -41,5 +41,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 Add these credentials in your .env file at the root directory:
 
-### `PORT=4000`
+### `PORT=3000`
 ### `MONGODB_URL=mongodb://localhost:27017/test`
